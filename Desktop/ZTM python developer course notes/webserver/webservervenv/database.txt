@@ -1,0 +1,3 @@
+Email, subject, message
+olivia.quek@gmail.com,Hello there!!!,Whatsupp??? :D
+olivia.mizumura@mioana.com,Hello there!!!,Msg me asap!!!
